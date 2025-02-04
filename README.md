@@ -1,73 +1,77 @@
-AMIGO SECRETO 🎉
+
+<h1>AMIGO SECRETO 🎉</h1>
+  
 Este é um site simples para realizar sorteios de Amigo Secreto. Ele permite que os usuários adicionem nomes de participantes, realizem o sorteio e vejam quem tirou quem.
 
-FUNCIONALIDADES
-Adicionar Participantes:
+<h1>FUNCIONALIDADES </h1>
 
-Insira os nomes dos participantes no campo de texto e clique em "Adicionar".
++ Adicionar Participantes:
 
-Os nomes são exibidos em uma lista abaixo.
++ Insira os nomes dos participantes no campo de texto e clique em "Adicionar".
 
-Sortear Amigo Secreto:
++ Os nomes são exibidos em uma lista abaixo.
 
-Clique em "Sortear amigo" para realizar o sorteio.
++ Sortear Amigo Secreto:
 
-O sistema embaralha os nomes e exibe o resultado, garantindo que ninguém tire a si mesmo.
++ Clique em "Sortear amigo" para realizar o sorteio.
 
-Reiniciar o Jogo:
++ O sistema embaralha os nomes e exibe o resultado, garantindo que ninguém tire a si mesmo.
 
-Clique em "Reiniciar" para limpar a lista de participantes e o resultado do sorteio, permitindo que você comece um novo jogo.
+<h1>Reiniciar o Jogo:</h1>
 
-COMO USAR
++ Clique em "Reiniciar" para limpar a lista de participantes e o resultado do sorteio, permitindo que você comece um novo jogo.
 
-Adicionar Nomes:
+<h1>COMO USAR</h1>
 
-Digite o nome de um participante no campo de texto e clique em "Adicionar".
++ Adicionar Nomes:
 
-Repita o processo para adicionar todos os participantes.
++ Digite o nome de um participante no campo de texto e clique em "Adicionar".
 
-Realizar o Sorteio:
++ Repita o processo para adicionar todos os participantes.
 
-Após adicionar pelo menos dois participantes, clique em "Sortear amigo".
++ Realizar o Sorteio:
 
-O resultado será exibido na tela, mostrando quem tirou quem.
++ Após adicionar pelo menos dois participantes, clique em "Sortear amigo".
 
-Reiniciar:
++ O resultado será exibido na tela, mostrando quem tirou quem.
 
-Para começar um novo sorteio, clique em "Reiniciar".
+<h1>Reiniciar: </h1>
 
-Todos os nomes e resultados anteriores serão apagados.
++ Para começar um novo sorteio, clique em "Reiniciar".
 
-TECNOLOGIAS UTILIZADAS 💻
-HTML: Estrutura da página.
++ Todos os nomes e resultados anteriores serão apagados.
 
-CSS: Estilização e design.
+<h1>TECNOLOGIAS UTILIZADAS 💻</h1>
 
-JavaScript: Lógica do sorteio e interatividade.
++ HTML: Estrutura da página.
 
-COMO EXECUTAR
++ CSS: Estilização e design.
 
-Clone o Repositório:
++ JavaScript: Lógica do sorteio e interatividade.
 
-bash
+<h1>COMO EXECUTAR</h1>
+
++ Clone o Repositório:
 
 git clone https://github.com/seu-usuario/amigo-secreto.git
 Abra o Projeto:
 
-Navegue até a pasta do projeto:
+<h1>Navegue até a pasta do projeto:</h1>
 
-bash
++ cd amigo-secreto
++ Execute o Site:
++ Abra o arquivo index.html no seu navegador.
 
-cd amigo-secreto
-Execute o Site:
-
-Abra o arquivo index.html no seu navegador.
-
-ESTRUTURA
+<h1>ESTRUTURA</h1>
 
 amigo-secreto/
-│
-├── index.html          # Página principal do site
-├── style.css           # Estilos CSS para a página
-├── app.js              # Lógica JavaScript do sorteio
-└── README.md           # Documentação do projeto
+
++ ├── index.html
+(Página principal do site)
++ ├── style.css
+  (Estilos CSS para a página)
+  
++ ├── app.js
+(Lógica JavaScript do sorteio)
++ └── README.md
+  (Documentação do projeto)
