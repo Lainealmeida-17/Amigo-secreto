@@ -50,21 +50,21 @@ COMO EXECUTAR
 Clone o Repositório:
 
 bash
-Copy
+
 git clone https://github.com/seu-usuario/amigo-secreto.git
 Abra o Projeto:
 
 Navegue até a pasta do projeto:
 
 bash
-Copy
+
 cd amigo-secreto
 Execute o Site:
 
 Abra o arquivo index.html no seu navegador.
 
 ESTRUTURA
-Copy
+
 amigo-secreto/
 │
 ├── index.html          # Página principal do site
